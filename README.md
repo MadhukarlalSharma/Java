@@ -1,3 +1,3 @@
-# Day 1 - Arrays & Strings
+# Day 2 - Stacks, Queues & Linked Lists
 
-Questions Q1 to Q10.
+Questions Q11 to Q20.
